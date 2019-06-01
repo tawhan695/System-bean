@@ -1,0 +1,7 @@
+step1
+npm install mysql
+npm install net
+
+step 2
+npm init
+npm staer
